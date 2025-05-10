@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Dhruxy077/Leetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhruxy077/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhruxy077/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Dhruxy077/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sliding Window
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhruxy077/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Dhruxy077/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 <!---LeetCode Topics End-->
