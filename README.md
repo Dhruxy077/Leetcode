@@ -48,6 +48,7 @@ MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dhruxy077/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dhruxy077/Leetcode/tree/master/0013-roman-to-integer) |
+| [1013-fibonacci-number](https://github.com/Dhruxy077/Leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -57,4 +58,16 @@ MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhruxy077/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Dhruxy077/Leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Dhruxy077/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Dhruxy077/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
