@@ -6,6 +6,7 @@ MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dhruxy077/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/Dhruxy077/Leetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhruxy077/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhruxy077/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -27,6 +28,7 @@ MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dhruxy077/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhruxy077/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -51,4 +53,8 @@ MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dhruxy077/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dhruxy077/Leetcode/tree/master/0013-roman-to-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dhruxy077/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
