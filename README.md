@@ -11,6 +11,7 @@ MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | [0209-minimum-size-subarray-sum](https://github.com/Dhruxy077/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhruxy077/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1293-three-consecutive-odds](https://github.com/Dhruxy077/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhruxy077/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Dhruxy077/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sliding Window
 |  |
@@ -37,6 +38,7 @@ MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 ## Greedy
 |  |
 | ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhruxy077/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Dhruxy077/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Hash Table
 |  |
@@ -58,6 +60,7 @@ MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dhruxy077/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dhruxy077/Leetcode/tree/master/0013-roman-to-integer) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhruxy077/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Dhruxy077/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Dhruxy077/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Divide and Conquer
@@ -68,6 +71,7 @@ MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Dhruxy077/Leetcode/tree/master/1013-fibonacci-number) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhruxy077/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Dhruxy077/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Dhruxy077/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Recursion
