@@ -12,6 +12,7 @@ MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | [0643-maximum-average-subarray-i](https://github.com/Dhruxy077/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1293-three-consecutive-odds](https://github.com/Dhruxy077/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1677-matrix-diagonal-sum](https://github.com/Dhruxy077/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dhruxy077/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhruxy077/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Dhruxy077/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sliding Window
