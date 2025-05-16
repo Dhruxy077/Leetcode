@@ -11,6 +11,7 @@ MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | [0209-minimum-size-subarray-sum](https://github.com/Dhruxy077/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhruxy077/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1293-three-consecutive-odds](https://github.com/Dhruxy077/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1677-matrix-diagonal-sum](https://github.com/Dhruxy077/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhruxy077/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Dhruxy077/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sliding Window
@@ -87,4 +88,8 @@ MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Dhruxy077/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Dhruxy077/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/Dhruxy077/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
