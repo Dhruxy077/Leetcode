@@ -22,13 +22,28 @@ class Solution {
             col[i[1]]++;
         }
 
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if((row[i]+col[j])%2 !=0) count++;
-            }
+        // for(int i=0;i<m;i++){
+        //     for(int j=0;j<n;j++){
+        //         if((row[i]+col[j])%2 !=0) count++;
+        //     }
+        // }
+
+        // return count;
+         int oddRowCount = 0;
+        for (int ro : row) {
+            if (ro % 2 != 0) oddRowCount++;
         }
 
-        return count;
+        int oddColCount = 0;
+        for (int co : col) {
+            if (co % 2 != 0) oddColCount++;
+        }
+
+        // Step 3: Calculate total number of odd cells
+        // Formula: (odd rows * even columns) + (even rows * odd columns)
+        int totalOdd = (oddRowCount * (n - oddColCount)) + ((m - oddRowCount) * oddColCount);
+
+        return totalOdd;
         
     }
 
