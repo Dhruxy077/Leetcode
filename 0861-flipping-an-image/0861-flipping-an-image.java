@@ -17,10 +17,10 @@ class Solution {
         while(i<=j){
             arr[i]=arr[j]+arr[i]-(arr[j]=arr[i]);
             if(i!=j){
-                arr[i]=1-arr[i];
-                arr[j]=1-arr[j];
+                arr[i]=1^arr[i];
+                arr[j]=1^arr[j];
             }else{
-                arr[i]=1-arr[i];
+                arr[i]=1^arr[i];
             }
             i++;
             j--;
