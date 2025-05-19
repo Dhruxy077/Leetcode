@@ -10,6 +10,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | [0209-minimum-size-subarray-sum](https://github.com/Dhruxy077/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhruxy077/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0777-toeplitz-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Dhruxy077/Leetcode/tree/master/0861-flipping-an-image) |
 | [1293-three-consecutive-odds](https://github.com/Dhruxy077/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -106,6 +107,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0777-toeplitz-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Dhruxy077/Leetcode/tree/master/0861-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Dhruxy077/Leetcode/tree/master/1677-matrix-diagonal-sum) |
