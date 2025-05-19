@@ -1,6 +1,5 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 
-MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
