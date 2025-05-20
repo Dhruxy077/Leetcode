@@ -6,6 +6,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhruxy077/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0054-spiral-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Dhruxy077/Leetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhruxy077/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -113,6 +114,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Dhruxy077/Leetcode/tree/master/0861-flipping-an-image) |
@@ -121,6 +123,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Dhruxy077/Leetcode/tree/master/0861-flipping-an-image) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
