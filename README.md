@@ -20,6 +20,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | [1677-matrix-diagonal-sum](https://github.com/Dhruxy077/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dhruxy077/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dhruxy077/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2411-spiral-matrix-iv](https://github.com/Dhruxy077/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Dhruxy077/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhruxy077/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Dhruxy077/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -122,6 +123,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | [0861-flipping-an-image](https://github.com/Dhruxy077/Leetcode/tree/master/0861-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Dhruxy077/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2411-spiral-matrix-iv](https://github.com/Dhruxy077/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -130,6 +132,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | [0566-reshape-the-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Dhruxy077/Leetcode/tree/master/0861-flipping-an-image) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2411-spiral-matrix-iv](https://github.com/Dhruxy077/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Tree
 |  |
 | ------- |
@@ -154,4 +157,8 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dhruxy077/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Linked List
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/Dhruxy077/Leetcode/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
