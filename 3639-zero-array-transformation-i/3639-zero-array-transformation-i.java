@@ -1,12 +1,11 @@
 class Solution {
     public boolean isZeroArray(int[] nums, int[][] queries) {
-        // int m=queries.length;
         int n=nums.length;
         int[] diff=new int[n+1];
-        
-        for(int[] query:queries){
+
+        for(int[] query: queries){
             diff[query[0]]++;
-            diff[query[1]+1]--;
+            diff[query[1]+1]++;
         }
 
         int[] decrementCount=new int[n];
@@ -17,7 +16,7 @@ class Solution {
         }
 
         for(int i=0;i<n;i++){
-            if(decrementCount[i]<nums[i]) return false;
+            if(decrementCount[i]< nums[i]) return false;
         }
 
         return true;
