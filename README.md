@@ -28,6 +28,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | [3321-type-of-triangle](https://github.com/Dhruxy077/Leetcode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/Dhruxy077/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Dhruxy077/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Dhruxy077/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -45,6 +46,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | [0075-sort-colors](https://github.com/Dhruxy077/Leetcode/tree/master/0075-sort-colors) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dhruxy077/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3321-type-of-triangle](https://github.com/Dhruxy077/Leetcode/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/Dhruxy077/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,12 +61,14 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | [0209-minimum-size-subarray-sum](https://github.com/Dhruxy077/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3639-zero-array-transformation-i](https://github.com/Dhruxy077/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Dhruxy077/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Dhruxy077/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Greedy
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dhruxy077/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhruxy077/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Dhruxy077/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3647-zero-array-transformation-iii](https://github.com/Dhruxy077/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,4 +171,8 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 |  |
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/Dhruxy077/Leetcode/tree/master/2411-spiral-matrix-iv) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/Dhruxy077/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 <!---LeetCode Topics End-->
