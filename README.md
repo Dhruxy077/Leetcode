@@ -25,6 +25,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Dhruxy077/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhruxy077/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Dhruxy077/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3194-find-words-containing-character](https://github.com/Dhruxy077/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Dhruxy077/Leetcode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/Dhruxy077/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Dhruxy077/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -94,6 +95,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | [0013-roman-to-integer](https://github.com/Dhruxy077/Leetcode/tree/master/0013-roman-to-integer) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Dhruxy077/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhruxy077/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/Dhruxy077/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Dhruxy077/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Dhruxy077/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Divide and Conquer
