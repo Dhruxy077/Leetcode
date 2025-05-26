@@ -86,6 +86,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dhruxy077/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dhruxy077/Leetcode/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/Dhruxy077/Leetcode/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/Dhruxy077/Leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [3321-type-of-triangle](https://github.com/Dhruxy077/Leetcode/tree/master/3321-type-of-triangle) |
@@ -146,6 +147,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Dhruxy077/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/Dhruxy077/Leetcode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Dhruxy077/Leetcode/tree/master/0861-flipping-an-image) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -182,4 +184,8 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 |  |
 | ------- |
 | [3647-zero-array-transformation-iii](https://github.com/Dhruxy077/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Dhruxy077/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
