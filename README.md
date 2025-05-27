@@ -54,6 +54,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhruxy077/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhruxy077/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/Dhruxy077/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dhruxy077/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3643-zero-array-transformation-ii](https://github.com/Dhruxy077/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -87,6 +88,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | [0012-integer-to-roman](https://github.com/Dhruxy077/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dhruxy077/Leetcode/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Dhruxy077/Leetcode/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/Dhruxy077/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Dhruxy077/Leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Dhruxy077/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
