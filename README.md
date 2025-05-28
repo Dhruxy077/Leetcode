@@ -159,10 +159,12 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dhruxy077/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Dhruxy077/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dhruxy077/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Dhruxy077/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -191,4 +193,8 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Dhruxy077/Leetcode/tree/master/0258-add-digits) |
+## Depth-First Search
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Dhruxy077/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 <!---LeetCode Topics End-->
