@@ -188,6 +188,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Dhruxy077/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/Dhruxy077/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Heap (Priority Queue)
 |  |
