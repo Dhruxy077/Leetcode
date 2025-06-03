@@ -16,8 +16,8 @@ class Solution {
 
         while(ptr2!=null){
             if(ptr1.val==ptr2.val){
+                ptr1.next=ptr2.next;
                 ptr2=ptr2.next;
-                ptr1.next=ptr2;
             }
             else{
             ptr1=ptr1.next;
