@@ -103,6 +103,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dhruxy077/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dhruxy077/Leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Dhruxy077/Leetcode/tree/master/0020-valid-parentheses) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dhruxy077/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Dhruxy077/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhruxy077/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -214,4 +215,8 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Dhruxy077/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Dhruxy077/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
