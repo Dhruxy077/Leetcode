@@ -23,7 +23,7 @@ public class MyCircularQueue {
 
         public boolean enQueue(int value) {
             if (initialCapacity == totalCapacity ) {
-                return false; // Queue is full
+                return false; 
             }
 
             node newNode = new node(value);
