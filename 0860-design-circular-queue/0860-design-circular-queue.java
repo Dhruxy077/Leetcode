@@ -52,9 +52,12 @@ public class MyCircularQueue {
                 front=null;
                 rear=null;
             }else {
-                front=front.next;
+                node oldFront=front;
+                front=oldFront.next;
                 front.prev=rear;
                 rear.next=front;
+                oldFront.next=null;
+                oldFront.prev=null;
             }            
             initialCapacity--;
             return true;
