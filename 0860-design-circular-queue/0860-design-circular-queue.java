@@ -28,20 +28,20 @@ public class MyCircularQueue {
 
             node newNode = new node(value);
 
-            if (front == null) { // Handling the case of an empty queue
+            if (front == null) { 
                 front = newNode;
-                rear = newNode; // IMPORTANT: Initialize rear for the first element
-                newNode.next = newNode; // Points to itself for a single-node circular list
-                newNode.prev = newNode; // Points to itself for a single-node circular list
-            } else { // Handling subsequent elements
+                rear = newNode; 
+                newNode.next = newNode; 
+                newNode.prev = newNode; 
+            } else { 
                 rear.next = newNode;
                 newNode.prev = rear;
-                rear = newNode; // Update rear to the new node
-                rear.next = front; // Maintain circularity: new rear points to front
-                front.prev = rear; // Maintain circularity: front points back to new rear
+                rear = newNode; 
+                rear.next = front; 
+                front.prev = rear; 
             }
 
-            initialCapacity++; // Increment the count of elements
+            initialCapacity++; 
             return true;
         }
 
