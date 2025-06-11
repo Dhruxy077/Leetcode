@@ -14,6 +14,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | [0566-reshape-the-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhruxy077/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0777-toeplitz-matrix](https://github.com/Dhruxy077/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [0860-design-circular-queue](https://github.com/Dhruxy077/Leetcode/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/Dhruxy077/Leetcode/tree/master/0861-flipping-an-image) |
 | [0948-sort-an-array](https://github.com/Dhruxy077/Leetcode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Dhruxy077/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -189,6 +190,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Dhruxy077/Leetcode/tree/master/0649-dota2-senate) |
+| [0860-design-circular-queue](https://github.com/Dhruxy077/Leetcode/tree/master/0860-design-circular-queue) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dhruxy077/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Queue
 |  |
@@ -200,6 +202,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dhruxy077/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhruxy077/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dhruxy077/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0860-design-circular-queue](https://github.com/Dhruxy077/Leetcode/tree/master/0860-design-circular-queue) |
 | [2411-spiral-matrix-iv](https://github.com/Dhruxy077/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Heap (Priority Queue)
 |  |
@@ -231,6 +234,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Dhruxy077/Leetcode/tree/master/0155-min-stack) |
+| [0860-design-circular-queue](https://github.com/Dhruxy077/Leetcode/tree/master/0860-design-circular-queue) |
 ## Merge Sort
 |  |
 | ------- |
