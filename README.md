@@ -92,6 +92,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dhruxy077/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Dhruxy077/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dhruxy077/Leetcode/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Dhruxy077/Leetcode/tree/master/0258-add-digits) |
@@ -133,6 +134,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dhruxy077/Leetcode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/Dhruxy077/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -203,6 +205,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dhruxy077/Leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dhruxy077/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhruxy077/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dhruxy077/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
