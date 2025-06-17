@@ -176,11 +176,13 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dhruxy077/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dhruxy077/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Dhruxy077/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Dhruxy077/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Dhruxy077/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dhruxy077/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Dhruxy077/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Dhruxy077/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
@@ -188,10 +190,12 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dhruxy077/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dhruxy077/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Dhruxy077/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Dhruxy077/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Dhruxy077/Leetcode/tree/master/0861-flipping-an-image) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Dhruxy077/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -224,6 +228,7 @@ CHECK OUT MY LEETCODE PROFILE :- https://leetcode.com/u/Dhruxy-_-/
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dhruxy077/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Dhruxy077/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Dhruxy077/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Graph
 |  |
